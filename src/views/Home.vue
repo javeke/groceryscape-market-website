@@ -60,7 +60,7 @@
           GroceryScape Admin allows company owners to manage orders 
         </h3>
         <p>
-          Here an administrator is able to moniter and filter all orders by status and is able to
+          Here an administrator is able to monitor and filter all orders by status and is able to
           update the order status so that customers can track orders.
         </p>
       </div>

@@ -13,7 +13,7 @@
                 </div>
                 <div class="card-content">
                     <p>
-                      Malik is fullstack software developer, who mainly focuses on database design and backend frameworks. 
+                      Malik is a fullstack software developer, who mainly focuses on database design and backend frameworks. 
                       He is a very hardworking individual and a fan of the Spanish football club Real Madrid. 
                     </p>
                     <h6> -Malik Edwards</h6>
