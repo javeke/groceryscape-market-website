@@ -55,7 +55,7 @@
                     <h6>- Jason Hunter</h6>
                     <p>AI Developer</p>
                     <p class="social-icons">
-                      <a href="https://www.instagram.com/realmalz/"><i class="bi bi-linkedin"></i></a>
+                      <a href="https://www.linkedin.com/in/jason-hunter-363569142"><i class="bi bi-linkedin"></i></a>
                       <a href="https://github.com/jahunter767"><i class="bi bi-github"></i></a>
                     </p>
                 </div>

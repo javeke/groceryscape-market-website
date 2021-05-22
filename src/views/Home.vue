@@ -6,7 +6,7 @@
           GroceryScape
         </h3>
         <p>
-          Remote grocery shopping at your finger tips. GroceryScape is an online supermarket platform which is designed
+          Remote grocery shopping at your finger tips. <a href="https://groceryscape.web.app">GroceryScape</a> is an online supermarket platform which is designed
           to provide one of the best customer experiences and allow the site to make relevent and on point suggestions to
           customer for furture purchases. 
         </p>
@@ -97,6 +97,10 @@ export default {
       font-size: 3em;
       color: green;
     }
+    a{
+        color: green;
+        font-weight: bold;
+      }
     p{
       font-size: 1.5em;
     }
@@ -183,13 +187,14 @@ export default {
     padding-right: 20px;
   }
   video{
-    width: 100%;
+    margin: auto;
+    width: 80%;
   }
 }
 
 .groceryscape-admin-demo{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
   align-items: center;
   gap: 10px;
   background: rgb(240, 249, 255);
@@ -202,11 +207,12 @@ export default {
     padding-right: 20px;
   }
   video{
-    width: 100%;
+    width: 80%;
+    margin: auto;
   }
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
   .groceryscape-demo{
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
