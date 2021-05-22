@@ -13,8 +13,8 @@
                 </div>
                 <div class="card-content">
                     <p>
-                      Malik is a fullstack software developer, who mainly focuses on database design and backend frameworks. 
-                      He is a very hardworking individual and a fan of the Spanish football club Real Madrid. 
+                      I am a fullstack software developer, who mainly focuses on database design and backend frameworks. 
+                      I am a very hardworking individual and a fan of the Spanish football club Real Madrid. 
                     </p>
                     <h6> -Malik Edwards</h6>
                     <p>Database Developer</p>
@@ -31,8 +31,8 @@
                 </div>
                 <div class="card-content">
                     <p>
-                      Milton is a very diligent computer scientist with excellent time and project management skills
-                      which complements his problem solving skills. He is a quick learner and web development enthusiast.
+                      I am a very diligent computer scientist with excellent time and project management skills
+                      which complements my problem solving skills. I am a quick learner and web development enthusiast.
                     </p>
                     <h6>- Milton Francis</h6>
                     <p>Backend Developer</p>
@@ -48,8 +48,8 @@
                 </div>
                 <div class="card-content">
                     <p>
-                      Jason is a very meticulous developer who ensures that he conducts a deep research into any
-                      project that he is working on. His passion lies in computer architecture and low level embedded
+                      I am a very meticulous developer who ensures to conduct a deep research into any
+                      project that I am working on. My passion lies in computer architecture and low level embedded
                       systems. 
                     </p>
                     <h6>- Jason Hunter</h6>
@@ -66,8 +66,8 @@
                 </div>
                 <div class="card-content">
                     <p>
-                      Javier is a football lover, math, physics and foreign languange enthusiast. He is determined to be able to speak at least 5 languages fluently by 30. As for career interest, 
-                      Javier is looking to pursue studies in game development, cybersecurity and IOT embedded systems.  
+                      I am a football lover, math, physics and foreign languange enthusiast. I am determined to be able to speak at least 5 languages fluently by 30. As for career interest, 
+                      I am looking to pursue studies in game development, cybersecurity and IOT embedded systems.  
                     </p>
                     <h6>- Javier Bryan</h6>
                     <p>Frontend Developer </p>
