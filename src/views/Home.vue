@@ -43,6 +43,11 @@
         <h3>
           Take a look at the demo of GroceryScape
         </h3>
+        <p>
+          Here we see where a customer is able to place an order based on recommendations given by the software 
+          and is able to browse the store and complete orders. The customer also has the ability to schedule and 
+          track orders. 
+        </p>
       </div>
       <video controls autoplay muted>
         <source src="../assets/GroceryScape.mp4" type="video/mp4">
@@ -54,6 +59,10 @@
         <h3>
           GroceryScape Admin allows company owners to manage orders 
         </h3>
+        <p>
+          Here an administrator is able to moniter and filter all orders by status and is able to
+          update the order status so that customers can track orders.
+        </p>
       </div>
       <video controls autoplay muted>
         <source src="../assets/GroceryScape-Admin.mp4" type="video/mp4">
@@ -85,7 +94,7 @@ export default {
     padding: 30px;
     gap: 20px;
     h3{
-      font-size: 4em;
+      font-size: 3em;
       color: green;
     }
     p{
@@ -136,8 +145,27 @@ export default {
         }
         a{
           color: green;
+          font-weight: bold;
         }
     }
+}
+
+@media screen and (max-width:400px) {
+  .about-us-row{
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+    .text-col{
+      order: 1 ;
+      padding: 0px 0px;
+      h5, h6, p{
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
+    .image-col{
+      order: 2;
+    }
+  } 
 }
 
 .groceryscape-demo{
@@ -147,6 +175,13 @@ export default {
   background: rgb(240, 249, 255);
   padding: 40px;
   align-items: center;
+  h3{
+    color: green;
+  }
+  p{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
   video{
     width: 100%;
   }
@@ -159,8 +194,24 @@ export default {
   gap: 10px;
   background: rgb(240, 249, 255);
   padding: 40px;
+  h3{
+    color: green;
+  }
+  p{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
   video{
     width: 100%;
+  }
+}
+
+@media screen and (max-width:400px) {
+  .groceryscape-demo{
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .groceryscape-admin-demo{
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
 }
 

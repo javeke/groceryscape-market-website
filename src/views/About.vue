@@ -3,7 +3,7 @@
     <div class="team-section">
         <div class="title">
             <h4><i class="bi bi-people-fill"></i><b>Our Team</b></h4>
-            <p>GroceryScape was built by a group of young and brilliant software developers. They all have their individual 
+            <p> <a href="https://groceryscape.web.app">GroceryScape</a> was built by a group of young and brilliant software developers. They all have their individual 
               strengths and weaknesses and worked tirelessly to complement each other's strength to deliver the project</p>
         </div>
         <div class="team-row">
@@ -12,15 +12,16 @@
                     <img src="../assets/malik.jpg">
                 </div>
                 <div class="card-content">
-                    <p>I am a very simple card. I am good at containing small bits of information.
-                    I am convenient because I require little markup to use effectively.</p>
-                    <h6>- Malik Edwards</h6>
+                    <p>
+                      Malik is fullstack software developer, who mainly focuses on database design and backend frameworks. 
+                      He is a very hardworking individual and a fan of the Spanish football club Real Madrid. 
+                    </p>
+                    <h6> -Malik Edwards</h6>
                     <p>Database Developer</p>
                     <p class="social-icons">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                      <a href=""><i class="bi bi-github"></i></a>
+                      <a href="https://www.instagram.com/realmalz/"><i class="bi bi-instagram"></i></a>
+                      <a href="https://www.linkedin.com/in/malik-e-90a754139/"><i class="bi bi-linkedin"></i></a>
+                      <a href="https://github.com/malz101"><i class="bi bi-github"></i></a>
                     </p>
                 </div>
             </div>
@@ -29,15 +30,15 @@
                     <img src="../assets/milton.jpg">
                 </div>
                 <div class="card-content">
-                    <p>I am a very simple card. I am good at containing small bits of information.
-                    I am convenient because I require little markup to use effectively.</p>
+                    <p>
+                      Milton is a very diligent computer scientist with excellent time and project management skills
+                      which complements his problem solving skills. He is a quick learner and web development enthusiast.
+                    </p>
                     <h6>- Milton Francis</h6>
                     <p>Backend Developer</p>
                     <p class="social-icons">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                      <a href=""><i class="bi bi-github"></i></a>
+                      <a href="https://www.linkedin.com/in/milton-francis-66b2471a7/"><i class="bi bi-linkedin"></i></a>
+                      <a href="https://github.com/legend19410"><i class="bi bi-github"></i></a>
                     </p>
                 </div>
             </div>
@@ -46,15 +47,16 @@
                     <img src="../assets/jason.jpg">
                 </div>
                 <div class="card-content">
-                    <p>I am a very simple card. I am good at containing small bits of information.
-                    I am convenient because I require little markup to use effectively.</p>
+                    <p>
+                      Jason is a very meticulous developer who ensures that he conducts a deep research into any
+                      project that he is working on. His passion lies in computer architecture and low level embedded
+                      systems. 
+                    </p>
                     <h6>- Jason Hunter</h6>
                     <p>AI Developer</p>
                     <p class="social-icons">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                      <a href=""><i class="bi bi-github"></i></a>
+                      <a href="https://www.instagram.com/realmalz/"><i class="bi bi-linkedin"></i></a>
+                      <a href="https://github.com/jahunter767"><i class="bi bi-github"></i></a>
                     </p>
                 </div>
             </div>
@@ -64,7 +66,8 @@
                 </div>
                 <div class="card-content">
                     <p>
-                      I am a football lover, math, physics and foreign languange enthusiast. I hope to be able to speak at least 5 languages fluently by 30. As for career interest, I am looking to pursue studies in game development, cybersecurity and IOT embedded systems.  
+                      Javier is a football lover, math, physics and foreign languange enthusiast. He is determined to be able to speak at least 5 languages fluently by 30. As for career interest, 
+                      Javier is looking to pursue studies in game development, cybersecurity and IOT embedded systems.  
                     </p>
                     <h6>- Javier Bryan</h6>
                     <p>Frontend Developer </p>
@@ -99,6 +102,10 @@
     margin: auto;
     font-size: 1.1em;
   }
+  a{
+    color: green;
+    font-weight: bold;
+  }
 }
 
 .team-row{
@@ -110,7 +117,7 @@
         color: #fff;
         background: #00242c;
         box-shadow: none;
-        max-width: 300px;
+        max-width: 250px;
         padding: 12px;
         box-sizing: content-box;
         text-align: center;
