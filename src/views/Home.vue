@@ -54,7 +54,7 @@
         Your browser does not support the video tag.
       </video>
     </div>
-    <div class="groceryscape-admin-demo">
+    <div  id="demos" class="groceryscape-admin-demo">
       <div>
         <h3>
           GroceryScape Admin allows company owners to manage orders 
